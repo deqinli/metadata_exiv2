@@ -1,0 +1,32 @@
+{
+	"SEM":{
+		"satellite":{
+			"version":"0.0.1",
+			"company":"ncsmb",
+			"AccFrames":"3",
+			"AccType":"Line",
+			"Company":"TESCAN",
+			"Date":"2023-04-11",
+			"Description":" ",
+			"Device":"TESCAN AMBER",
+			"DeviceModel":"S8251G",
+			"FullUserName":"supervisor",
+			"ImageStripSize":"178",
+			"Magnification":"2000.0",
+			"MagnificationReference":"0.2792",
+			"OrigFileName":"z-2000-2-2",
+			"PixelSizeX":"0.000000136328125",
+			"PixelSizeY":"0.000000136328125",
+			"SerialNumber":"119-0257",
+			"Sign":" ",
+			"SoftwareVersion":"TESCAN Essence Version 1.2.0.0, build 5536",
+			"Time":"06:57:49",
+			"UserName":"supervisor",
+			"ViewFieldsCountX":"1",
+			"ViewFieldsCountY":"1"
+		},
+		"planet":{
+			"author":"ncsmb"
+		}
+	}
+}

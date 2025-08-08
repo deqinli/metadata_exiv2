@@ -1,0 +1,14 @@
+{
+    "address": {
+        "city": "New York",
+        "street": "123 Main St"
+    },
+    "age": 31,
+    "courses": [
+        "Math",
+        "Physics",
+        "Computer Science"
+    ],
+    "is_student": true,
+    "name": "Alice"
+}
